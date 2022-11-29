@@ -1,0 +1,31 @@
+{
+    "name": "liam-the-wandering-cloak-merchant",
+    "title": "Liam, the Wandering Cloak Merchant",
+    "description": "This is our first one page adventure, a series of adventures and encounters fitted in one page.This time we have Liam, the Wandering Cloak Merchant, a short encounter featuring Liam, a merchant that has a challenge for the party.",
+    "version": "1.0.0",
+    "author": "The Dungeon Archive",
+    "authors": [
+        {
+            "name": "The Dungeon Archive",
+            "url": "https://www.patreon.com/thedungeonarchive"
+        }
+    ],
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": "10.286"
+    },
+    "packs": [
+        {
+            "name": "liam-the-wandering-cloak-merchant",
+            "label": "Liam, the Wandering Cloak Merchant",
+            "path": "./packs/liam-the-wandering-cloak-merchant.db",
+            "entity": "Adventure",
+            "type": "Adventure",
+            "system": "dnd5e"
+        }
+    ],
+    "manifest": "https://www.dropbox.com/s/017ts3936xhzskr/module.json",
+    "download": "https://www.dropbox.com/s/4onq9b2et52lcz8/liam-the-wandering-cloak-merchant.zip"
+  }
