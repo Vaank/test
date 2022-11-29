@@ -26,6 +26,6 @@
             "system": "dnd5e"
         }
     ],
-    "manifest": "https://github.com/Vaank/test/blob/fe361d5cd763db7e21de956820c2a4cc6bc7eb56/module.json",
+    "manifest": "https://raw.githubusercontent.com/Vaank/test/main/module.json",
     "download": "https://github.com/Vaank/test/blob/9cf92e7088f32ceacd72b6eff1d2dac84b76854f/liam-the-wandering-cloak-merchant.zip"
   }
